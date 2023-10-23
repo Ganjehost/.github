@@ -1,3 +1,10 @@
+<p align="center">
+  
+  <img src="https://github.com/Ganjehost/.github/blob/main/profile/ganjeHosting.png"/>
+  
+</p>
+
+
 # Welcome to GanjeHost
 
 GanjeHost has been a prominent player in the field of web hosting, domain registration, virtual private servers, dedicated servers, and various SSL certificate services for an extended period. Our management team at GanjeHost consists of experienced professionals in the IT industry, particularly web hosting services, with over 7 years of professional expertise. They have embarked on forming an independent entity built on the knowledge of our young and creative engineers, under the trade name "Ganje Innovation Group" or simply "GanjeHost."
